@@ -122,6 +122,7 @@ Opendata resources in Russian / Открытые данные на русско�
 
 
 ## Каналы в Telegram
+* [Open Data Chat на русском](https://telegram.me/opendatachat)
 * [Иван Бегтин в Telegram](https://telegram.me/begtin)
 
 ## Каналы в Slack
