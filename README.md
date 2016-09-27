@@ -33,6 +33,7 @@ Opendata resources in Russian / Открытые данные на русско�
 * [OpenCorpora](http://opencorpora.org) - морфологически, синтаксически и семантически размеченный корпус текстов на русском языке
 * [Yet Another Russnet](https://russianword.net/) - Yet Another RussNet. Целью проекта является создание большого открытого электронного тезауруса русского языка.
 * [OpenStreetMap Russian Community](http://openstreetmap.ru)
+* [Linked Open Data at ITMO University](http://lod.ifmo.ru/)
 
 ## Госпорталы открытых данных
 
@@ -100,12 +101,14 @@ Opendata resources in Russian / Открытые данные на русско�
 * [Госзатраты](https://www.facebook.com/clearspending)
 * [Открытая полиция](https://www.facebook.com/OpenPolice.ru)
 * [OKF Russia](https://www.facebook.com/okfnru/)
+* [Журналистика данных](https://www.facebook.com/datajournalismrussia/)
 
 ## Сообщества Vkontakte
 * [OKF Russia](https://vk.com/okfnru)
 * [Госзатраты](https://vk.com/clearspending)
 * [Инфокультура](https://vk.com/infoculture)
 * [Открытые данные](https://vk.com/club17958029)
+* [SPb Open Data](https://vk.com/spb_opendata)
 
 ## Сообщества в Meetup и Timepad в Москве
 * [Moscow Data Science](http://www.meetup.com/Moscow-Data-Science/)
@@ -119,7 +122,7 @@ Opendata resources in Russian / Открытые данные на русско�
 
 ## Сообщества в Meetup и Timepad в Петербурге
 * [St. Petersburg Data Science](http://www.meetup.com/St-Petersburg-Data-Science-Meetup/)
-
+* [St.Petersburg R User Group](https://www.meetup.com/St-Petersburg-R-User-Group/)
 
 ## Каналы в Telegram
 * [Open Data Chat на русском](https://telegram.me/opendatachat)
