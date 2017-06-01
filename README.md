@@ -82,6 +82,8 @@ Opendata resources in Russian / Открытые данные на русско�
 
 ## Awesome Lists 
 * [Ресурсы по журналистике данных](https://github.com/infoculture/awesome-datajournalism)
+* [Ресурсы по открытости бюджетов](https://github.com/infoculture/awesome-openbudget)
+
 
 ## Блоги и ресурсы
 * [Сообщество на Хабре](http://habrahabr.ru/hub/opendata)
