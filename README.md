@@ -34,6 +34,7 @@ Opendata resources in Russian / Открытые данные на русско�
 * [Yet Another Russnet](https://russianword.net/) - Yet Another RussNet. Целью проекта является создание большого открытого электронного тезауруса русского языка.
 * [OpenStreetMap Russian Community](http://openstreetmap.ru)
 * [Linked Open Data at ITMO University](http://lod.ifmo.ru/)
+* [Список отрытых архивов и исторических данных](https://github.com/ligurio/open-history-data)
 
 ## Госпорталы открытых данных
 
