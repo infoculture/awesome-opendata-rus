@@ -135,7 +135,7 @@ Opendata resources in Russian / Открытые данные на русско�
 * [St.Petersburg R User Group](https://www.meetup.com/St-Petersburg-R-User-Group/)
 
 ## Каналы в Telegram
-* [Open Data Chat на русском](https://telegram.me/opendatachat)
+* [Open Data Chat на русском](https://telegram.me/opendatarussiachat)
 * [Иван Бегтин в Telegram](https://telegram.me/begtin)
 
 ## Каналы в Slack
