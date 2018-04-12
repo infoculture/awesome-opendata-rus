@@ -1,6 +1,9 @@
 # Russian awesome open data list  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Opendata resources in Russian / Открытые данные на русском языке
 
+Этот список пополняется сообществом, для внесения изменений откройте этот файл [для редактирования](https://github.com/infoculture/awesome-opendata-rus/edit/master/README.md) и сохраните изменения. Они будут оперативно рассмотрены модератором. 
+Если Вы хотите редактировать файл регулярно - напишите ibegtin@infoculture или https://t.me/begtin
+
 ### Table of contents / Содержание
 
 * [Репозитории](#репозитории)
