@@ -114,11 +114,9 @@ Opendata resources in Russian / Открытые данные на русско�
 * [Школа Инфокультуры](https://www.facebook.com/infocultureschool/)
 * [Госзатраты](https://www.facebook.com/clearspending)
 * [Открытая полиция](https://www.facebook.com/OpenPolice.ru)
-* [OKF Russia](https://www.facebook.com/okfnru/)
 * [Журналистика данных](https://www.facebook.com/datajournalismrussia/)
 
 ## Сообщества Vkontakte
-* [OKF Russia](https://vk.com/okfnru)
 * [Госзатраты](https://vk.com/clearspending)
 * [Инфокультура](https://vk.com/infoculture)
 * [Открытые данные](https://vk.com/club17958029)
