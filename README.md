@@ -27,6 +27,7 @@ Opendata resources in Russian / Открытые данные на русско�
 * [Россия | Хаб открытых данных](http://hubofdata.ru)
 * [Геоданные на ГИС Лаб](http://gis-lab.info/qa/data.html)
 * [Россия | Хаб данных НКО](http://data.prongo.ru)
+* [Россия | Открытые данные KontragentPro](https://kontragentpro.ru/data) - 27 агрегированных наборов по ЕРКНМ, открытым данным ФНС (реестр МСП, спецрежимы) и Роспатенту; CSV, CC BY 4.0, часть с DOI (Zenodo, Harvard Dataverse, figshare)
 * [Открытые данные Беларуси](http://opendata.by/)
 
 ## Проекты
